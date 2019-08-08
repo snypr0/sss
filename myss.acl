@@ -22,6 +22,36 @@
 # 默认代理
 [bypass_list]
 (^|\.)ip138\.com$
+(^|\.)163yun\.com$
+(^|\.)1688\.com$
+(^|\.)17k\.com$
+(^|\.)360\.com$
+(^|\.)360buy\.com$
+(^|\.)360buyimg\.com$
+(^|\.)360doc\.com$
+(^|\.)360safe\.com$
+(^|\.)365sb\.com$
+(^|\.)365-288\.com$
+(^|\.)56\.com$
+(^|\.)abercrombie\.com$
+(^|\.)acgvideo\.com$
+(^|\.)amap\.com$
+(^|\.)autonavi\.com$
+(^|\.)battle\.net$
+(^|\.)bdimg\.com$
+(^|\.)bdstatic\.com$
+(^|\.)biqudu\.com$
+(^|\.)biquge\.com$
+(^|\.)bitauto\.com$
+(^|\.)bootcss\.com$
+(^|\.)chinacache\.net$
+(^|\.)cibntv\.net$
+(^|\.)cloudxns\.net$
+(^|\.)coolapk\.com$
+(^|\.)coolapkmarket\.com$
+(^|\.)dilidili\.wang$
+
+
 #**********************************************************************
 [outbound_block_list]
 # 禁止访问列表
