@@ -7876,12 +7876,6 @@
 173.244.217.42/32
 209.95.56.60/32
 
-# Steam
-(^|\.)fanatical\.com$
-(^|\.)humblebundle\.com$
-(^|\.)steamcommunity\.com$
-(^|\.)steampowered\.com$
-(^|\.)steamstatic\.com$
 
 # Telegram
 91.108.0.0/16
