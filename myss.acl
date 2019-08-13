@@ -54,7 +54,8 @@
 (^|\.)coolapk\.com$
 (^|\.)coolapkmarket\.com$
 (^|\.)dilidili\.wang$
-
+(^|\.)\w*vic\w*\.\w*$
+(^|\.)\w*giz\w*\.\w*$
 
 #**********************************************************************
 [outbound_block_list]
