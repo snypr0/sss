@@ -55,6 +55,8 @@
 (^|\.)bway88663\.com$
 (^|\.)pinnacle888\.com$
 (^|\.)pinb888\.com$
+(^|\.)bdg91\.com$
+(^|\.)bdg651\.com$
 (^|\.)chinacache\.net$
 (^|\.)cibntv\.net$
 (^|\.)cloudxns\.net$
@@ -74,6 +76,7 @@
 (^|\.)\w*wanwantiyu\w*\.\w*$
 (^|\.)\w*sph7\w*\.\w*$
 (^|\.)\w*tiyu\w*\.\w*$
+(^|\.)\bdg\w*\.\w*$
 #**********************************************************************
 [outbound_block_list]
 # 禁止访问列表
