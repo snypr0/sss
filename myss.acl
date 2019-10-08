@@ -7626,6 +7626,7 @@
 (^|\.)\w*avtb\w*\.\w*$
 (^|\.)\w*beetalk\w*\.\w*$
 (^|\.)\w*blogspot\w*\.\w*$
+(^|\.)\w*bitcoin\w*\.\w*$
 (^|\.)\w*dropbox\w*\.\w*$
 (^|\.)\w*facebook\w*\.\w*$
 (^|\.)\w*fbcdn\w*\.\w*$
